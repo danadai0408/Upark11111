@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\AndroidStudioProjects\16-Audio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="372753b30578d5b3ce94682613fa6fe93bb5c6bb">
+        <dex dex="C:\Users\James\AndroidStudioProjects\16-Audio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0a22a7d2a17ea1ea1f5d050732e468c0b19f2323\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\AndroidStudioProjects\16-Audio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7510690e0b9c5f12e8bc97af557f32aff4fab4b5">
+        <dex dex="C:\Users\James\AndroidStudioProjects\16-Audio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_43d83121a8c05500ec8c240a546364d4402bd0ea\classes.dex" />
+    </item>
+
+</items>
